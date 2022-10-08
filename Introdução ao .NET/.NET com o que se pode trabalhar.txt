@@ -1,0 +1,26 @@
+.NET
+
+#Desktop
+	- WPF;
+	- Windows Forms;
+	- UWP;
+
+#Web
+	- Asp.NET;
+
+#Cloud
+	- Azure;
+
+#Mobile
+	- Xamarin;
+
+#Gaming
+	- Unity;
+
+#IoT
+	- ARM32;
+	- ARM64;
+
+#AI
+	- ML NET;
+	- NET for Apache Spare;
