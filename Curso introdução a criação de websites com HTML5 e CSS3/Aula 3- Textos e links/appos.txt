@@ -1,0 +1,9 @@
+ancora
+
+<a></a>
+
+<ahref="">Instagram</a>
+
+<a target="_blank">link</a>
+
+traget _blank eh para abrir o link em um novo separador

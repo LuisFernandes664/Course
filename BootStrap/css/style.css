@@ -1,0 +1,24 @@
+
+.navbar{
+    background-color: #9F7A5F;
+    padding-left: 50px;
+}
+
+.quemsomos{
+    background-color: #F3F7F0;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+#produtos{
+    background-color: #19323C;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,1 @@
+programação estruturada: é interpretada linha por linha nao precisar ter uma ordem especifica

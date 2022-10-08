@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Win10"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-04-06 07:44:11 "/>
+        <attribute name="created" value="V2luMTA7REVTS1RPUC1VSlUySkVJOzIwMjEtMDQtMDY7IjA2OjUwOjMxICI7MjY3Nw=="/>
+        <attribute name="edited" value="V2luMTA7REVTS1RPUC1VSlUySkVJOzIwMjEtMDQtMDY7IjA3OjQ0OjExICI7MTsyNzg3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome, sobrenome" type="String" array="False" size=""/>
+            <declare name="idade" type="Integer" array="False" size=""/>
+            <output expression="&quot;Qual &#233; o seu nome? &quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Qual &#233; o seu sobre nome? &quot;" newline="True"/>
+            <input variable="sobrenome"/>
+            <output expression="&quot;Qual &#233; a sua idade? &quot;" newline="True"/>
+            <input variable="idade"/>
+            <output expression="&quot;O seu nome &#233;: &quot; &amp;nome&amp; &quot; e o seu sobrenome &#233; &quot;&amp;sobrenome&amp; &quot; e a sua idade &#233; &quot;&amp;idade" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
