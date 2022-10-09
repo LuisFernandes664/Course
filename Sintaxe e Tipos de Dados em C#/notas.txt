@@ -1,4 +1,7 @@
 
 
+control + k = comentar varias linhas
+
+DateTime (tipo de dados para data)
 
 
