@@ -1,0 +1,15 @@
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.exe
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.deps.json
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.runtimeconfig.json
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.dll
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.pdb
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.dll
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net6.0\refint\ExemploFundamentos.dll
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.pdb
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\Win10\Desktop\Cursos online\Curso digital innovation\Course\Sintaxe e Tipos de Dados em C#\ExemploFundamentos\obj\Debug\net6.0\ref\ExemploFundamentos.dll

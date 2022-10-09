@@ -1,0 +1,8 @@
+Instalação do .NET: https://dotnet.microsoft.com/en-us/download
+
+
+Para criar projeto: "dotnet new console"
+
+extenções: 
+    - C#
+    - C# Extensions
