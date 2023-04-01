@@ -2,5 +2,6 @@ C# foi criado em 2002
 
 Compilação -> passar uma linguagem de alto nivel para uma linguagem de baixo nivel ( aproxima à linguagem de maquina )
 
+
 Transpilador -> passa de linguagem de alto nivel para alto nivel (ex. TypeScript para JavaScript)
 
