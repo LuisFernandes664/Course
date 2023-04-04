@@ -4,3 +4,4 @@ Compilação -> passar uma linguagem de alto nivel para uma linguagem de baixo n
 
 
 Transpilador -> passa de linguagem de alto nivel para alto nivel (ex. TypeScript para JavaScript)
+
